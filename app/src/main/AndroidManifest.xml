@@ -15,7 +15,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".scroll.ScrollActivity"></activity>
+        <activity android:name=".scroll.ScrollActivity" />
+        <activity android:name=".scroll.MyViewDragHelperActivity"></activity>
     </application>
 
 </manifest>
